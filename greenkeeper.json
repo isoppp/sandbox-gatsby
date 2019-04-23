@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "gatsby-site/package.json",
+        "tutorial-part-four/package.json",
+        "tutorial-part-one/package.json",
+        "tutorial-part-three/package.json",
+        "tutorial-part-two/package.json"
+      ]
+    }
+  }
+}
